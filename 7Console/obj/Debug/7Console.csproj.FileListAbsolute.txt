@@ -1,0 +1,7 @@
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\7Console\7Console\bin\Debug\7Console.exe.config
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\7Console\7Console\bin\Debug\7Console.exe
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\7Console\7Console\bin\Debug\7Console.pdb
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\7Console\7Console\bin\Debug\System.ValueTuple.dll
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\7Console\7Console\obj\Debug\7Console.csprojResolveAssemblyReference.cache
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\7Console\7Console\obj\Debug\7Console.exe
+c:\users\joseph.pinkston\documents\visual studio 2017\Projects\7Console\7Console\obj\Debug\7Console.pdb
